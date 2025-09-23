@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "87804047-0dce-c448-1a4b-49563f318c63",
+  "instructors": {
+    "content": [
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a",
+      "0210cf2e-100a-f417-29e1-c027584999c3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e95dfac1-6b28-8eb5-e00d-cb58b0be6c3f",
+    "website": "10-40-chemical-engineering-thermodynamics-fall-2003"
+  },
+  "course_title": "Chemical Engineering Thermodynamics",
+  "course_description": "This course aims to connect the principles, concepts, and laws/postulates of classical and statistical thermodynamics to applications that require quantitative knowledge of thermodynamic properties from a macroscopic to a molecular level. It covers their basic postulates of classical thermodynamics and their application to transient open and closed systems, criteria of stability and equilibria, as well as constitutive property models of pure materials and mixtures emphasizing molecular-level effects using the formalism of statistical mechanics. Phase and chemical equilibria of multicomponent systems are covered. Applications are emphasized through extensive problem work relating to practical cases.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.40",
+  "course_image_thumbnail": {
+    "content": "c0c1bb38-5f77-c1d6-20b4-5f6d10aa498b",
+    "website": "10-40-chemical-engineering-thermodynamics-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "3a84a5e1-427e-4854-be05-1d49a5fad17c",
+  "site_short_id": "10.40-fall-2003",
+  "site_url_path": "courses/10-40-chemical-engineering-thermodynamics-fall-2003",
+  "title": "Course Metadata"
+}
