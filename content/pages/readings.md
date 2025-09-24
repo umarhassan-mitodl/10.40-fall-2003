@@ -671,7 +671,7 @@ Final Exam: 3 hours
 
 Bejan, Adrian. _Advanced Engineering Thermodynamics._ New York: Wiley, 1988. ISBN: 9780471830436. \[Graduate Level, mechanical engineering emphasis, generalized exergy/availability analysis\].\*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523981) Bett, K. E., Rowlinson, J. S., and Saville, G. [_Thermodynamics for Chemical Engineers_](https://mitpress.mit.edu/9780262523981)_._ Cambridge, MA: The MIT Press, 1975. ISBN: 9780262523981. \[General text from a Chemical Engineering perspective\].
+{{% resource_link "e3742170-104c-4c50-ac43-7dc0b25659c1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bett, K. E., Rowlinson, J. S., and Saville, G. {{% resource_link "e3742170-104c-4c50-ac43-7dc0b25659c1" "_Thermodynamics for Chemical Engineers_" %}}_._ Cambridge, MA: The MIT Press, 1975. ISBN: 9780262523981. \[General text from a Chemical Engineering perspective\].
 
 Callen, Herbert B. _Thermodynamics: An Introduction to the Physical Theories of Equilibrium Thermostatistics and Irreversible Thermodynamics._ New York: Wiley, 1960. Reprint available: Temecula, CA: Textbook Publishers, 2003. ISBN: 0758103360. \[Physics approach, recommended section on Legendre transformations\].\*
 
@@ -689,7 +689,7 @@ Keenan, Joseph H. _et al_ . "International System of Units." In _Steam Tables: T
 
 Pitzer, Kenneth S. _Thermodynamics._ 3rd ed. New York: McGraw-Hill, 1995. ISBN: 9780070502215. \[Well-written, revision of classic 1923 text by G.N. Lewis and M. Randall, treats electrolytes\].
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262131230) Milora, Stanley L. and Tester, Jefferson W. [_Geothermal Energy as a Source of Electric Power: Thermodynamics and Economic Design Criteria_](https://mitpress.mit.edu/9780262131230)_._ Cambridge, MA: The MIT Press, 1976. ISBN: 9780262131230. \[Thermodynamic treatment of low-temperature power cycles\].
+{{% resource_link "919866ac-c4cf-4ce2-8176-29cc41608179" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Milora, Stanley L. and Tester, Jefferson W. {{% resource_link "919866ac-c4cf-4ce2-8176-29cc41608179" "_Geothermal Energy as a Source of Electric Power: Thermodynamics and Economic Design Criteria_" %}}_._ Cambridge, MA: The MIT Press, 1976. ISBN: 9780262131230. \[Thermodynamic treatment of low-temperature power cycles\].
 
 Prausnitz, John M., de Azevedo, Edmundo Gomez, and Lichtenthaler, Rudiger N. _Molecular Thermodynamics of Fluid-Phase Equilibria._ 3rd ed. East Rutherford, NJ: Prentice-Hall, 1998. ISBN: 9780139777455. \[Intermolecular forces, bridges the gap between Classical and Statistical Thermodynamics, presents many practical models for non-ideal behavior\].
 
@@ -701,7 +701,7 @@ Sandler, Stanley I. _Chemical and Engineering Thermodynamics._ New York: Wiley, 
 
 Smith, J. M. (ed.), van Ness, H. C., and Abbott, M. _Introduction to Chemical Engineering Thermodynamics._ 5th ed. New York: McGraw-Hill, 1996. ISBN: 9780070592391. \[Introductory, classic chemical engineering undergrad text, well-organized\].
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200103) Tisza, Laszlo. [_Generalized Thermodynamics_](https://mitpress.mit.edu/9780262200103)_._ Cambridge, MA: The MIT Press, 1966. ISBN: 9780262200103. \[Theoretical, detailed discussion of Legendre transformations\].
+{{% resource_link "87853375-1137-4e88-9d33-9653bd287eaa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tisza, Laszlo. {{% resource_link "87853375-1137-4e88-9d33-9653bd287eaa" "_Generalized Thermodynamics_" %}}_._ Cambridge, MA: The MIT Press, 1966. ISBN: 9780262200103. \[Theoretical, detailed discussion of Legendre transformations\].
 
 Walas, Stanley M. _Phase Equilibria in Chemical Engineering._ New York: Buttersworth, 1985. ISBN: 9780750693134. \[Excellent, practical treatment of VLE and LLE\].
 
