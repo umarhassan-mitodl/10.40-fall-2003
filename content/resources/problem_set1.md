@@ -7,6 +7,8 @@ description: 'Homework assignment. Unless otherwise noted, problems assigned by 
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/0ab388b060a9d4a03d300d713e605c04_problem_set1.pdf
 file_size: 11250
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

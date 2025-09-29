@@ -7,6 +7,8 @@ description: 'Handout containing statement of the First Postulate: For closed si
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e5ac64013a781cb7c31c57bdeea5dddf_class_8.pdf
 file_size: 30569
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

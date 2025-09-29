@@ -7,6 +7,8 @@ description: This handout contains Supplementary Notes for Chapters 1-3. These n
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3cfb0d0bf653a61fae75544cb315bc7b_suppnote_ch01_03.pdf
 file_size: 240047
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

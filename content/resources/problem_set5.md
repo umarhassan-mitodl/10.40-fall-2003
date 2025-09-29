@@ -7,6 +7,8 @@ description: 'Thermodynamics questions. Unless otherwise noted, problems assigne
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/78b4aba45e1390beec3cee22ceba8a26_problem_set5.pdf
 file_size: 36272
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

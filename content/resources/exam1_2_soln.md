@@ -4,6 +4,8 @@ description: Solution to 1st Exam.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/bb13cae045a5a843c81dee5d07e02360_exam1_2_soln.pdf
 file_size: 117717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

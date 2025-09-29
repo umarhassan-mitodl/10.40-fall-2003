@@ -4,6 +4,8 @@ description: Calendar for the course " Chemical Engineering Thermodynamics".
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/60cb3eff4b796afbf3cb60d6d0cdbfa1_calendar_1040.pdf
 file_size: 120839
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

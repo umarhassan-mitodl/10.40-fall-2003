@@ -4,6 +4,8 @@ description: This handout contains supplementary notes for Lectures 23 and 24.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/b50ddddbc5f60b837b06d608428a017b_lecture23notes.pdf
 file_size: 161969
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

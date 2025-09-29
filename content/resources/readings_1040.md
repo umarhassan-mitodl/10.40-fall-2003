@@ -4,6 +4,8 @@ description: Reading Material for the course " Chemical Engineering Thermodynami
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3af51c69599fcedfd67c6aa72d70d8f5_readings_1040.pdf
 file_size: 139566
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

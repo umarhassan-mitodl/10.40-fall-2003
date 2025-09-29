@@ -7,6 +7,8 @@ description: This handout contains Supplementary Notes for Chapters 17. These no
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/74c229701d6fd8f9f1cbc41a699d8c1e_suppnotes_ch17.pdf
 file_size: 97427
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

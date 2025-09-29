@@ -4,6 +4,8 @@ description: Summary of Mathematical Forms.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/7e8d17f09d28d27138df95a60c37db4a_energy_1st_law.pdf
 file_size: 36972
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

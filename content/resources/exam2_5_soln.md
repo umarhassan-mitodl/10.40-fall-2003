@@ -4,6 +4,8 @@ description: Solution to 2nd Exam.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/cd58187af54633e0952303004c462fd3_exam2_5_soln.pdf
 file_size: 46732
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

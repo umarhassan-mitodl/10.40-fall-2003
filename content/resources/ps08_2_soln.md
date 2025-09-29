@@ -4,6 +4,8 @@ description: Solution to Problem Set 8.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/aa5670280589c11344b9943cb15e2309_ps08_2_soln.pdf
 file_size: 115455
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

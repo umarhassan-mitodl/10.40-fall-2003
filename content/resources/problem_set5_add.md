@@ -8,6 +8,8 @@ description: 'Image removed due to copyright considerations. Please see "Hilsenr
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/426470e636db00535423d79bc48536c8_problem_set5_add.pdf
 file_size: 15323
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

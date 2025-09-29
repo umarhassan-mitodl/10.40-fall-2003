@@ -6,6 +6,8 @@ description: Appendix to Lectures 21 through 24 covering canonical ensemble, max
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e7b51076ef1a087faf3456d5ab224b5e_appendix.pdf
 file_size: 146524
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
